@@ -7,3 +7,8 @@ class TestModule1Func(object):
         expected = 123
         actual = string_to_int("123")
         assert actual == expected
+
+    def test_invalid_string_case(self):
+        expected = None
+        acutal = string_to_int("xxx")
+        assert acutal is expected
