@@ -1,5 +1,5 @@
 import pytest
-from src.module_1.module_1_func import string_to_int
+from module_1.module_1_func import string_to_int
 
 
 class TestModule1Func(object):
