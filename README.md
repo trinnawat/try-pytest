@@ -4,3 +4,8 @@
 # Try-Pytest
 
 ## Try using pytest and doing some CI on github
+
+### Note:
+
+- using vscode on windows 10
+- using pytest
